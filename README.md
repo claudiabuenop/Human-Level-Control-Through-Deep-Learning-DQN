@@ -7,5 +7,7 @@ torch version: 2.5.1
 gym version: 0.22.0
 numpy version: 1.24.4
 torchvision version: 0.20.1
+seaborn version: 0.13.2
+opencv-python version: 4.10.0.84
 
 Task: OpenAI CartPole
