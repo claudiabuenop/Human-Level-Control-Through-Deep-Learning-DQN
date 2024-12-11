@@ -8,4 +8,4 @@ gym version: 0.22.0
 numpy version: 1.24.4
 torchvision version: 0.20.1
 
-
+Task: OpenAI CartPole
